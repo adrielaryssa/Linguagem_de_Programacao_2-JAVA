@@ -1,0 +1,7 @@
+a) Represente uma data usando três atributos: o dia, o mês, e o ano; 
+b) Sua classe deve ter um construtor que inicializa os três atributos e verifica a validade dos valores fornecidos; 
+c) Forneça um construtor sem parâmetros que inicializa a data com a data atual fornecida pelo sistema operacional; 
+d) Forneça um método set um get para cada atributo; 
+e) Forneça o método toString para retornar uma representação da ata como string. Considere que a data deve ser formatada f) mostrando o dia, o mês e o ano separados por barra (/);
+g) Forneça uma operação para avançar uma data para o dia seguinte;
+h) Escreva um aplicativo de teste que demonstra as capacidades da classe. 
